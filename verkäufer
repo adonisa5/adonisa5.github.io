@@ -1,0 +1,12 @@
+{
+"sellId": "2142082683",
+"name":"Martina Muster",
+"companyName": "VM" ,
+"address": {
+ "street": "Am Falm 313",
+ "zipCode": "27498",
+ "city": "Helgoland",
+ "country": "DE" }
+"mail":"martina.m@gmail.com"
+
+}
