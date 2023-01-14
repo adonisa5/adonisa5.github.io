@@ -1,0 +1,42 @@
+"vehicles": [
+{
+   "accident": false,
+   "availability": {
+   "availabilityType": 1,
+   "deliveryDate": null,
+   "deliveryDays": null
+   }
+    "bodyColor": 3,
+    "bodyColorName": null,
+    "cylinderCapacity": 2893,
+    "cylinders": 6,
+    "description": null,
+    "doors": 2,
+    "driveType": null,
+    "emission" {
+    "co2": 221,
+    "efficiencyClass": null,
+    "emissionsSticker": null,
+    "fuel": {
+    "additionalSupportedFuelTypes": null,
+    "consumption": {
+            "electricConsumptionCombined": null,
+            "fuelConsumptionCombined": 9.4,
+            "fuelConsumptionHighway": 6.9,
+            "fuelConsumptionUrban": 13.8
+            }
+            "make": 13,
+            "metallic": true,
+            "mileage": 20000,
+            "model": 20223,
+            "modelVersion": "Avant",
+            "nonSmoking": true,
+            "powerKw": 65,
+            "previousOwners": 1,
+            "prices": {
+            "priceType": "Public",
+            "negotiable": true,
+            "price": 9000,
+            "taxDeductible": true,
+            "currency": "EUR"
+}
