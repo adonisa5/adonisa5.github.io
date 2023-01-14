@@ -1,0 +1,15 @@
+"sListId" : 514208 [
+        {
+            "vehicleId":"value1",
+            "netPrice":"16500"
+            "currency":"EUR"
+            "availabilityType":"3"
+        },
+        {
+            "vehicleId":"value2",
+            "netPrice":"12500"
+            "currency":"EUR"
+            "availabilityType":"1"
+        }
+    ]
+}
