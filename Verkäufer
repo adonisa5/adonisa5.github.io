@@ -1,0 +1,11 @@
+{
+"userId" : "2142082683",
+"name" : "Max Musterman",
+"companyName" : "VM" ,
+"address" : {
+   "street" : "Am Falm 313",
+   "zipCode" : "27498",
+   "city" : "Helgoland",
+   "country" : "DE" }
+"mail": "max.muster@gmail.com"
+}
